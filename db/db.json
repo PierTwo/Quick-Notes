@@ -1,6 +1,22 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "title": "Test Note",
+    "text": "A test note",
+    "id": "32733b8f-ec2c-487c-ada2-0a2415dc2900"
+  },
+  {
+    "title": "A cool note",
+    "text": "Very nice",
+    "id": "ebd42e43-5e03-4189-9136-b75bd5b3655e"
+  },
+  {
+    "title": "Some Note",
+    "text": "Lorem ipsum dolor",
+    "id": "8adfe106-3b7e-48b3-a5bf-0b8795f10bc4"
+  },
+  {
+    "title": "Wow a new note!",
+    "text": "very cool :)",
+    "id": "7ff3f3f0-7f6c-4435-b691-9c8e63a3fe20"
+  }
 ]
