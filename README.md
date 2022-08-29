@@ -28,6 +28,10 @@ Use your browser to navigate to the deployed web app link, then click the 'Get S
 
 Demo Link: [Quick Notes Demo](https://drive.google.com/file/d/1BaaAOPc-zcBHXybHcgmFWBJNJ0AvIqDU/view?usp=sharing)
 
+![Quick Notes Image 1](./assets/Quick-Notes-01.png)
+![Quick Notes Image 2](./assets/Quick-Notes-02.png)
+![Quick Notes Image 3](./assets/Quick-Notes-03.png)
+
 ## Credits
 
 #### Third-Party Assets
