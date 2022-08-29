@@ -3,7 +3,7 @@ const express = require("express");
 const path = require("path");
 const api = require("./routes/index.js");
 
-// Sets PORT to bind to the environment port variable used by the Heroku server or to a local server port 0f 3001
+// Creates a port variable to bind to the environment port used by the Heroku server or to a local server port 0f 3001
 const PORT = process.env.PORT || 3001;
 
 // Shorthand for calling express
@@ -28,6 +28,7 @@ app.get("/notes", (req, res) =>
   res.sendFile(path.join(__dirname, "/public/notes.html"))
 );
 
+// Wildcard route for any route that doesn't exist
 app.get("/*", (req, res) =>
   res.sendFile(path.join(__dirname, "/public/index.html"))
 );
